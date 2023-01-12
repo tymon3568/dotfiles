@@ -15,7 +15,7 @@ sudo apt install -y intel-microcode
 
 # Network File Tools/System Events unikey
 #sudo apt install -y dialog mtools dosfstools avahi-daemon acpi acpid gvfs-backends xfce4-power-manager
-sudo apt install -y xfce4-power-manager redshift fcitx-unikey
+sudo apt install -y xfce4-power-manager redshift  fcitx-unikey flameshot
 #sudo systemctl enable avahi-daemon
 #sudo systemctl enable acpid
 
