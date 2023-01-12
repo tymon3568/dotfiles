@@ -44,6 +44,8 @@ super + o
 super + t
 	~/bin/time_date
 
+super + v
+	code
 
 # make sxhkd reload its configuration files:
 super + Escape
