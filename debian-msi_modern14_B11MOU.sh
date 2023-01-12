@@ -20,7 +20,7 @@ sudo apt install -y xfce4-power-manager redshift fcitx-unikey
 #sudo systemctl enable acpid
 
 # File Manager (eg. pcmanfm,krusader,thunar,nautilus)
-sudo apt install -y pcmanfm micro
+sudo apt install -y pcmanfm micro file-roller
 
 # Terminal (eg. terminator,kitty,xfce4-terminal)
 sudo apt install -y gnome-terminal
